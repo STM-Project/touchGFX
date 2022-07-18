@@ -1,0 +1,112 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:147:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:703:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:93:18:virtual void touchgfx::Screen::setupScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:114:18:virtual void touchgfx::AbstractButtonContainer::handlePressedUpdated()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:119:18:virtual void touchgfx::AbstractButtonContainer::handleAlphaUpdated()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:34:7:touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:48:18:virtual void touchgfx::TextArea::setWidth(int16_t)	32	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:54:18:virtual void touchgfx::TextArea::setHeight(int16_t)	32	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:60:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:89:18:virtual void touchgfx::TextArea::setAlpha(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:127:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:403:41:virtual const UnicodeChar* touchgfx::TextArea::getWildcard2() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:81:41:virtual const UnicodeChar* touchgfx::TextAreaWithOneWildcard::getWildcard1() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<MainPresenter>::~View()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:20:13:MainViewBase::~MainViewBase()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:26:18:virtual void MainViewBase::toggleButtonPressed()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:31:18:virtual void MainViewBase::touchButtonPressed()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:36:18:virtual void MainViewBase::clickButtonPressed()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:41:18:virtual void MainViewBase::repeatButtonPressed()	0	static
+C:/TouchGFXProjects/MyApplication_11/TouchGFX/generated/gui_generated/src/main_screen/MainViewBase.cpp:105:6:virtual void MainViewBase::setupScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp:34:7:touchgfx::RepeatButtonTrigger::~RepeatButtonTrigger()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:45:7:touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger>::~ImageButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:44:7:touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> >::~IconButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:35:7:touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:45:7:touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger>::~ImageButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TouchButtonTrigger.hpp:35:7:touchgfx::TouchButtonTrigger::~TouchButtonTrigger()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:41:7:touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger>::~BoxWithBorderButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ToggleButtonTrigger.hpp:36:7:touchgfx::ToggleButtonTrigger::~ToggleButtonTrigger()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:123:18:void touchgfx::BoxWithBorderButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::TouchButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:138:18:void touchgfx::TextButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ToggleButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:touchgfx::Callback<MainViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:touchgfx::TextButtonStyle<touchgfx::ToggleButtonTrigger>::~TextButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:44:7:touchgfx::IconButtonStyle<touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger> >::~IconButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:touchgfx::TextButtonStyle<touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger> >::~TextButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:touchgfx::TextButtonStyle<touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> > >::~TextButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:59:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = MainViewBase; T1 = const touchgfx::AbstractButtonContainer&]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = MainViewBase; T1 = const touchgfx::AbstractButtonContainer&]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:145:18:void touchgfx::TextButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ToggleButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:144:18:void touchgfx::IconButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger>]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:131:18:void touchgfx::BoxWithBorderButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::TouchButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:145:18:void touchgfx::TextButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger>]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:104:18:void touchgfx::ImageButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:145:18:void touchgfx::TextButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> >]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:144:18:void touchgfx::IconButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger>]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:104:18:void touchgfx::ImageButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::RepeatButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:97:18:void touchgfx::ImageButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::RepeatButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:137:18:void touchgfx::IconButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger>]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:138:18:void touchgfx::TextButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> >]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:97:18:void touchgfx::ImageButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:138:18:void touchgfx::TextButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger>]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:137:18:void touchgfx::IconButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger>]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<MainPresenter>::~View()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:34:7:virtual touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp:34:7:virtual touchgfx::RepeatButtonTrigger::~RepeatButtonTrigger()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:35:7:virtual touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TouchButtonTrigger.hpp:35:7:virtual touchgfx::TouchButtonTrigger::~TouchButtonTrigger()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ToggleButtonTrigger.hpp:36:7:virtual touchgfx::ToggleButtonTrigger::~ToggleButtonTrigger()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:45:7:virtual touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger>::~ImageButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:44:7:virtual touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> >::~IconButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:45:7:virtual touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger>::~ImageButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:virtual touchgfx::TextButtonStyle<touchgfx::IconButtonStyle<touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger> > >::~TextButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:virtual touchgfx::TextButtonStyle<touchgfx::ImageButtonStyle<touchgfx::ClickButtonTrigger> >::~TextButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:virtual touchgfx::TextButtonStyle<touchgfx::ToggleButtonTrigger>::~TextButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:59:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:41:7:virtual touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger>::~BoxWithBorderButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:44:7:virtual touchgfx::IconButtonStyle<touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger> >::~IconButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:virtual touchgfx::Callback<MainViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	8	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp:20:13:virtual MainViewBase::~MainViewBase()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:99:18:virtual void touchgfx::AbstractButtonContainer::executeAction()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp:117:10:virtual void touchgfx::RepeatButtonTrigger::handleTickEvent()	8	static
+C:/TouchGFXProjects/MyApplication_11/TouchGFX/generated/gui_generated/src/main_screen/MainViewBase.cpp:110:6:void MainViewBase::flexButtonCallbackHandler(const touchgfx::AbstractButtonContainer&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:111:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:46:36:virtual touchgfx::TextArea::BoundingArea touchgfx::TextAreaWithWildcardBase::calculateBoundingArea() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:343:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:59:18:void touchgfx::IconButtonStyle<T>::setIconBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&) [with T = touchgfx::ImageButtonStyle<touchgfx::RepeatButtonTrigger>]	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/IconButtonStyle.hpp:59:18:void touchgfx::IconButtonStyle<T>::setIconBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&) [with T = touchgfx::BoxWithBorderButtonStyle<touchgfx::TouchButtonTrigger>]	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:413:10:void touchgfx::Drawable::setWidthHeight(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:233:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:465:10:void touchgfx::Drawable::setWidthHeight(const touchgfx::Bitmap&)	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:61:18:void touchgfx::ImageButtonStyle<T>::setBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&) [with T = touchgfx::RepeatButtonTrigger]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ImageButtonStyle.hpp:61:18:void touchgfx::ImageButtonStyle<T>::setBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&) [with T = touchgfx::ClickButtonTrigger]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:36:7:touchgfx::Widget::Widget()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:33:5:touchgfx::Box::Box()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:50:5:touchgfx::Image::Image(const touchgfx::Bitmap&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:37:5:touchgfx::AbstractButtonContainer::AbstractButtonContainer()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:51:10:void touchgfx::AbstractButtonContainer::setPressed(bool)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/RepeatButtonTrigger.hpp:93:10:virtual void touchgfx::RepeatButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:47:18:virtual void touchgfx::ClickButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TouchButtonTrigger.hpp:47:18:virtual void touchgfx::TouchButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ToggleButtonTrigger.hpp:78:18:virtual void touchgfx::ToggleButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:43:5:touchgfx::TextArea::TextArea()	8	static
+C:/TouchGFXProjects/MyApplication_11/TouchGFX/generated/gui_generated/src/main_screen/MainViewBase.cpp:9:1:MainViewBase::MainViewBase()	144	static
